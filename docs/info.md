@@ -9,11 +9,15 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+XOR gate are connected to input 1 and 2, connected to output 0
 
 ## How to test
 
-Explain how to use your project
+A | B | Out
+0 | 0 | 0
+1 | 0 | 1
+0 | 1 | 1
+1 | 1 | 0
 
 ## External hardware
 
